@@ -1,0 +1,6 @@
+{
+  "name": "至真链溯源平台",
+  "description": "基于‘AI视觉比对+区块链+商标核验’的可信数字溯源平台与课程集中实践报告系统，提供生鲜、副食、农特产品的数字化区块链存证和AI视觉查伪功能。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
